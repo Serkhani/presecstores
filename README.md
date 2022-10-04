@@ -2,11 +2,10 @@
 
 This is a flutter desktop app that can be used to manage students by a high school book store. It contains features to create new student data(student image, name, class, etc.), add and remove books for students, search for student(s), track received books as well as books that has been collected by various students.
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png">
-  <img src="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png" width="350">
-</picture>]
+## App In Use
+
+https://user-images.githubusercontent.com/66341820/193716529-0d004665-db9b-46e6-ba27-ef92c27495a4.mp4
+
 
 ## Motivation
 During my high school days, we were given some government textbooks but all the data was kept in files. This became a problem for those whose books were stolen and returned by other students. What happens is, the store keeper collects the books whose numbers did not match that of the one in the student's file and adds it to the books in the store(since there was no practical way to find the student whose book was returned). This was problematic because, those whose books were stolen and returned without their knowledge would be flagged as students who have misplaced their books and hence had to pay...
